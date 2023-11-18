@@ -1,5 +1,5 @@
 # sj-tapbas
-Demonstrating equivalent of pasmo --tapbas in sjasmplus.
+Demonstrating equivalent of `pasmo --tapbas` in sjasmplus.
 
 In `pasmo` directory, running `pasmo.exe --tapbas pasmo.asm pasmo.tap` will create `pasmo.tap` with a standard pasmo BASIC loader.
 
